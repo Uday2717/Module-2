@@ -1,0 +1,2 @@
+Negative indexes allows you to access elements of a sequence from the end using negative numbers as indexes.
+they are used to manipulate sequence objects such as lists, arrays, strings, etc.

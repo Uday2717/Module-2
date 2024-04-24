@@ -1,0 +1,2 @@
+Continue statement is used to continue the loop. It is used to end the current iteration in a loop and continues the next iteration.
+  

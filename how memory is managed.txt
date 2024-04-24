@@ -1,0 +1,2 @@
+Python manages memory allocation using a combination of techniques. It utilizes a private heap space, which is a portion of the 
+computer's memory dedicated to the Python interpreter.
